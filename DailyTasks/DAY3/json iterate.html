@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body>
+    <script>
+      var json = [
+        {
+          name: "parithi",
+          age: "28",
+          city: "bangalore",
+        },
+        {
+          name: "malar",
+          age: "25",
+          city: "bangalore",
+        },
+      ];
+
+      // for loop
+      for (let i = o; i < json.length; i++) {
+        console.log(json[i]);
+      }
+
+      //for in loop
+      for (var key in json) {
+        console.log(`${property}:${object[property]}`);
+      }
+
+      //for of loop
+      for (var key of json) {
+        console.log(key);
+      }
+      //forEach loop
+      json.forEach((element) => concole.log(element));
+    </script>
+  </body>
+</html>

@@ -1,0 +1,37 @@
+[
+  {
+    "personal-info": {
+      "firstname": "Elamparithi",
+      "lastname": "Muthuselvan",
+      "country": "india",
+      "state": "tamilnadu",
+      "city": "madurai",
+
+      "email": "itsparithi@gmail.com",
+      "pincode": "625107"
+    },
+    "education": {
+      "post-graduate": "MBA HR",
+      "under-graduate": "B.Tech IT",
+      "University": "Anna University"
+    },
+    "technicalskills": {
+      "Dev-languages": {
+        "javascript": "3",
+        "HTML": "5",
+        "CSS": "4"
+      },
+      "Technologies": {
+        "MongoDB": "2",
+        "Express": "4",
+        "React": "4",
+        "Node.js": "4"
+      }
+    },
+    "certification": {
+      "javascript": true,
+      "certi2": true,
+      "certi3": true
+    }
+  }
+]
